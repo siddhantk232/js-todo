@@ -1,0 +1,47 @@
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.button button {
+  padding: 10px;
+  border: 0;
+  margin: 10px auto;
+
+  background: orange;
+  color: #fff;
+
+}
+
+.working_box {
+  padding: 20px;
+  border: 1px solid blue;
+  border-radius: 10px;
+}
+
+.input_section {
+  border: 1px solid red;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.input_section input {
+  width: 80%;
+  height: 30px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-left: 10px;
+}
+
+.show_todo {
+  min-height: 60px;
+  width: 100%;
+  border: 1px solid green;
+  margin-top: 20px;
+  border-radius: 10px;
+}
